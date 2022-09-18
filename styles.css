@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #790252;
+  color: white;
+  font-family: cursive;
+}
+
+h1{
+  font-size: 80px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.time{
+  font-size: 120px;
+}
+
+.text{
+  font-size: 25px;
+}
+
+button{
+  font-size: 25px;
+  height: 40px;
+  width: 90px;
+  margin: 15px 20px;
+  color: white;
+  border: none;
+  border-radius: 5%;
+}
+
+.start{
+  background-color: #277BC0;
+}
+
+.stop{
+  background-color: #C21010;
+}
+
+.reset{
+  background-color: #5BB318;
+}
